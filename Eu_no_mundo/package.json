@@ -1,0 +1,16 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "Segunda atividade utilizando NPM",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "Eu",
+    "no",
+    "mundo"
+  ],
+  "author": "Wilhams Gomes",
+  "license": "ISC"
+}

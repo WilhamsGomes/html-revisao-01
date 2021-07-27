@@ -1,0 +1,14 @@
+{
+  "name": "olamundo",
+  "version": "1.0.0",
+  "description": "Primeira atividade utilizando o NPM",
+  "main": "index.html",
+  "scripts": {
+ },
+ "keywords": [
+    "ola",
+    "mundo"
+  ],
+  "author": "Wilhams Gomes",
+  "license": "ISC"
+}
